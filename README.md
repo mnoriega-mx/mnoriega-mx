@@ -12,8 +12,10 @@
 ###
 
 ###
+<div align="center">
+  <img src="yodagif.gif" height="150"></img>
+<div>
 
-<img src="yodagif.gif" height="150"></img>
 
 ###
 
